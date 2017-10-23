@@ -8,6 +8,9 @@ The objective here is to model the mechanism of face stability ahead of tunnel b
 If 1 and 2 occur, a new field of groundwater pressures is induced ahead of the TBM, which modifies the effective stress state in the ground.
 
 
+![Increment of Water Pressure](/images/mechanism.svg)
+
+
 **Published References:**
 1. Dias, T. G. S., & Bezuijen, A. (2016). A Different View on TBM Face Equilibrium in Permeable Ground. In ITA World Tunnel Congress 2016 - Uniting an Industry. San Francisco, USA: Society for Mining, Metallurgy, and Exploration (SME) [(Download)](https://doi.org/10.13140/RG.2.1.2223.6561)
 1. Dias, T. G. S., & Bezuijen, A. (2017). A Design Framework for TBM Face Equilibrium in Permeable Ground. In ITA World Tunnel Congress 2017 - Surface Challenges - underground solutions (p. 7). Bergen, Norway [(Download)](https://www.researchgate.net/publication/317606401_A_Design_Framework_for_TBM_Face_Equilibrium_in_Permeable_Ground)
